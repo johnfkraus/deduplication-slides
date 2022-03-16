@@ -1,5 +1,9 @@
 to avoid error when running on Mac, run with --no-browser flag.
 
+Presentation on YouTube:
+
+https://www.youtube.com/watch?v=4O87RdBgRJ4&list=PLk3qn9pE_2w9WIuE2tWxHR4nwO_qVgT5C&index=1&ab_channel=PyGotham2018
+
 jupyter notebook --no-browser
 
 [I 08:48:36.273 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
