@@ -40,7 +40,7 @@ ipython-genutils==0.2.0   # via nbformat, notebook, qtconsole, traitlets
 ipython==7.12.0           # via ipykernel, ipywidgets, jupyter-console
 ipywidgets==7.5.1         # via jupyter
 jedi==0.16.0              # via ipython
-jellyfish==0.7.2          # via recordlinkage
+jellyfish==0.9.0          # via recordlinkage
 jinja2==2.11.1            # via nbconvert, nbdime, notebook
 joblib==0.14.1            # via recordlinkage, scikit-learn
 jsonschema==3.2.0         # via nbformat
